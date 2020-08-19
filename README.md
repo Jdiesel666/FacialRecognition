@@ -67,6 +67,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# FacialRecognition
->>>>>>> ace9ecbb585b01b5bc364057067e2d746169cd79
+
